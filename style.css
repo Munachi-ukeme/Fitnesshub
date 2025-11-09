@@ -5,9 +5,7 @@
     font-family: sans-serif;
 
 }
-body{
-    width: 0rem;
-}
+
 
 .nav-area{
     display: flex;
@@ -202,7 +200,7 @@ body{
     background-color: #2f4f4f;
     padding-top: 70px;
     padding-bottom: 30px;
-    height: 150px;
+    height: 230px;
 }
 
 .s-i{
